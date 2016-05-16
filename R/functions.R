@@ -76,8 +76,8 @@ divide=function(x,y){
 #'     git remote add origion ...
 #'     git push .... 
 #'copy those two lines to the shell and run them (enter after paste)
-#'you will see "push" and "pull" botton appears on the git tap 
-#'
+#'you will see "push"(send to github) and "pull"(get from github) botton appears on the git tap 
+#'rmb to pull all the changes on github before push anything to github if you work on a team
 #'
 #'
 #'                        
