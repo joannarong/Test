@@ -79,7 +79,9 @@ divide=function(x,y){
 #'you will see "push"(send to github) and "pull"(get from github) botton appears on the git tap 
 #'rmb to pull all the changes on github before push anything to github if you work on a team
 #'
-#'
-#'                        
+#'process of downloading and installing package from github:
+#'1.install.package("devtools") - only do that once
+#'2.library(devtools) 
+#'3.install_github("joannarong/Test")                       
 #'                                               
 #'                                                                                             
