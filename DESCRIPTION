@@ -1,0 +1,8 @@
+Package: Test
+Type: Package
+Title: add and subtract
+Version: 1.0
+Date: 2016-05-09
+Authors@R: person("Joanna","Rong",email="joannarong123@gmail.com",role=c("aut","cre"))
+Description: add and subtract vectors or numbers
+License: What license is it under?
